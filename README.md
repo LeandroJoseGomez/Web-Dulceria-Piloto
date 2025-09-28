@@ -1,5 +1,7 @@
 # Web-Dulceria-Piloto
 
+https://leandrojosegomez.github.io/Web-Dulceria-Piloto/
+
 ## Aviso de derechos de autor y uso del código
 
 ### Todos los derechos reservados © Leandro José Gómez 2025, © Dulcería Piloto 2025.
